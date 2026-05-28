@@ -11,12 +11,7 @@
         "credit":   "autor original (CC-BY requiere mostrarlo)"
       }
     },
-    "pipeline_doc": "https://github.com/stornibyte/q3/blob/main/armador/3D-ASSETS-PIPELINE.md"
-  },
-  "gabinete-gamer-aureox-skoll-arx-200g-16wcb": {
-    "url": "https://cdn.jsdelivr.net/gh/KhronosGroup/glTF-Sample-Assets@main/Models/BoomBox/glTF-Binary/BoomBox.glb",
-    "scale": 60,
-    "rotation": { "x": 0, "y": 0, "z": 0 },
-    "credit": "BoomBox by Microsoft · Khronos glTF Sample Assets · Public Domain · PLACEHOLDER · reemplazar con GLB real del case Aureox Skoll"
+    "pipeline_doc": "https://github.com/stornibyte/q3/blob/main/armador/3D-ASSETS-PIPELINE.md",
+    "note": "Registry vacío de hero models · todos los cases usan el procedural detallado del armador-3d.js. Sumar entries cuando se descarguen GLBs reales de Sketchfab y se optimicen con gltf-transform."
   }
 }
