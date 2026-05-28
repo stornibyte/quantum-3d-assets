@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "version": "1.0.0",
+    "description": "Registry de hero models 3D del armador Quantum. Mapea slug del producto TN al GLB hero servido via jsDelivr.",
+    "format": {
+      "<slug-producto-tn>": {
+        "url": "https://cdn.jsdelivr.net/gh/stornibyte/quantum-3d-assets@v1/cases/<slug>.glb",
+        "scale": 1.0,
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "offset":   { "x": 0, "y": 0, "z": 0 },
+        "credit":   "autor original (CC-BY requiere mostrarlo)"
+      }
+    },
+    "pipeline_doc": "https://github.com/stornibyte/q3/blob/main/armador/3D-ASSETS-PIPELINE.md"
+  },
+  "gabinete-gamer-aureox-skoll-arx-200g-16wcb": {
+    "url": "https://cdn.jsdelivr.net/gh/KhronosGroup/glTF-Sample-Assets@main/Models/BoomBox/glTF-Binary/BoomBox.glb",
+    "scale": 60,
+    "rotation": { "x": 0, "y": 0, "z": 0 },
+    "credit": "BoomBox by Microsoft · Khronos glTF Sample Assets · Public Domain · PLACEHOLDER · reemplazar con GLB real del case Aureox Skoll"
+  }
+}
